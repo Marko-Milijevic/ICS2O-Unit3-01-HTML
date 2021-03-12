@@ -1,8 +1,9 @@
 .first {
-  color:purple;
-  font-size:120%
+  color: purple;
+  font-size: 120%;
 }
+
 #second {
-  font-family:"Times New Roman";
-  color:red;
+  font-family: "Times New Roman", Times, serif;
+  color: red;
 }
